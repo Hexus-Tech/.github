@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hexus Tech on GitHub
+# Hexus Tech
 
 **Projects, EdBooks, notebooks, and technical experiments connected to the Hexus Tech ecosystem.**
 
