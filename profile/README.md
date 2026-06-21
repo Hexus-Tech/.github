@@ -52,9 +52,6 @@ Technical projects, research systems, and experiments developed as part of the H
     <td width="50%">
       <h3>More repositories</h3>
       <p>Additional public repositories will be added as each project becomes ready to share.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Coming%20gradually-30363D?style=flat-square" alt="Coming gradually badge" />
-      </p>
     </td>
   </tr>
 </table>
