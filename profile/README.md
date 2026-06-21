@@ -28,9 +28,6 @@ Educational repositories built around practical learning, examples, notebooks, a
       </p>
       <p><a href="https://github.com/Hexus-Tech/python-for-finance">Open repository →</a></p>
     </td>
-    <td width="50%">
-    
-    </td>
   </tr>
 </table>
 
