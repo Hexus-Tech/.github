@@ -29,14 +29,7 @@ Educational repositories built around practical learning, examples, notebooks, a
       <p><a href="https://github.com/Hexus-Tech/python-for-finance">Open repository →</a></p>
     </td>
     <td width="50%">
-      <h3>Python para Finanzas</h3>
-      <p>Spanish edition of the finance-oriented Python learning material.</p>
-      <p>
-        <img src="https://img.shields.io/badge/EdBook-58A6FF?style=flat-square" alt="EdBook badge" />
-        <img src="https://img.shields.io/badge/Python-3FB950?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
-        <img src="https://img.shields.io/badge/ES-30363D?style=flat-square" alt="Spanish badge" />
-      </p>
-      <p><a href="https://github.com/Hexus-Tech/python-para-finanzas">Open repository →</a></p>
+    
     </td>
   </tr>
 </table>
